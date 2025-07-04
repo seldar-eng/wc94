@@ -1,0 +1,33 @@
+{
+  "name": "world-cup-1994-deluxe",
+  "version": "1.0.0",
+  "description": "A React application simulating the 1994 FIFA World Cup, with a retro MS-DOS game style.",
+  "main": "index.tsx",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "watch": "tailwindcss -i ./index.css -o ./index.css --watch",
+    "vite-build": "vite build"
+  },
+  "keywords": [
+    "react",
+    "tailwindcss",
+    "gemini",
+    "world-cup"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/react": "^19.1.8",
+    "@types/react-dom": "^19.1.6",
+    "@vitejs/plugin-react": "^4.6.0",
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.3",
+    "vite": "^7.0.2"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}

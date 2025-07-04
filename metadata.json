@@ -1,0 +1,7 @@
+{
+  "name": "1994 World Cup Simulation Deluxe - Build Version",
+  "description": "A React application simulating the 1994 FIFA World Cup, allowing users to manage a team, with a retro MS-DOS game style.",
+  "requestFramePermissions": [],
+  "pwa": false,
+  "prompt": ""
+}
